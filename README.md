@@ -19,6 +19,7 @@ Step To Clone Repo
 Site Screen Shorts 
 -----
 Home Page Banner
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i1.png">
 
 Home Page About Us 
@@ -26,9 +27,11 @@ Home Page About Us
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i2.png">
 
 Home Blog Post
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i3.png">
 
 Home Page Testimonials 
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i4.png">
 
 Home Page Contact 
@@ -36,16 +39,19 @@ Home Page Contact
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i6.png">
 
 Blog Post Display Page
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i7.png">
 
 Blog Post Display Page
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i8.png">
 
 Blog Post page Comments 
 
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i9.png">
 
-Blog Post Display Page Reply 
+Blog Post Display Page Reply
+
 <img src="https://github.com/pruthvi7384/Tourism-Blogger/blob/master/assets/website%20output/i10.png">
 
 ### THANK YOU !!!
